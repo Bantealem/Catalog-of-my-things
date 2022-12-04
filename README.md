@@ -45,7 +45,7 @@ In order to run this project you need to:
 
 Clone this repository to your desired folder:
 
-`git clone git@github.com:melashu/Catalog-of-my-things.git`
+`https://github.com/Bantealem/Catalog-of-my-things.git`
 
 cd `Catalog-of-my-things`
 
