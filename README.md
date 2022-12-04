@@ -23,7 +23,7 @@
 
 # 📖 Catalog-of-my-things <a name="about-project"></a>
 
-In this project, we created a console app that helps in recording different types of things one owns: books, music albums, movies, and games. Everything was based on the UML class diagram given. The data was stored in JSON files but we also prepared a database with a table structure analogical to our program's class structure.
+In this project, I have created a console app that helps in recording different types of things one owns: books, music albums, movies, and games. Everything was based on the UML class diagram given. The data was stored in JSON files but we also prepared a database with a table structure analogical to our program's class structure.
 
 ## 🛠 Built With <a name="built-with"></a>
 
